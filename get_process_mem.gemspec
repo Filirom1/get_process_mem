@@ -4,13 +4,13 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'get_process_mem/version'
 
 Gem::Specification.new do |gem|
-  gem.name          = "get_process_mem"
+  gem.name          = "get_process_mem-1-8-7"
   gem.version       = GetProcessMem::VERSION
-  gem.authors       = ["Richard Schneeman"]
-  gem.email         = ["richard.schneeman+rubygems@gmail.com"]
+  gem.authors       = ["Romain Philibert"]
+  gem.email         = ["Filirom1@gmail.com"]
   gem.description   = %q{ Get memory usage of a process in Ruby }
   gem.summary       = %q{ Use GetProcessMem to find out the amount of RAM used by any process }
-  gem.homepage      = "https://github.com/schneems/get_process_mem"
+  gem.homepage      = "https://github.com/worldline/get_process_mem"
   gem.license       = "MIT"
 
   gem.files         = `git ls-files`.split($/)

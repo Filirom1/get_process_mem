@@ -1,6 +1,6 @@
-# Get Process Memory
+# Get Process Memory for Ruby 1.8.7
 
-[![Build Status](https://travis-ci.org/schneems/get_process_mem.png?branch=master)](https://travis-ci.org/schneems/get_process_mem)
+[![Build Status](https://travis-ci.org/worldline/get_process_mem.png?branch=master)](https://travis-ci.org/worldline/get_process_mem)
 
 Do you need to get the memory usage of a process? Great because this library does that.
 
@@ -9,7 +9,7 @@ Do you need to get the memory usage of a process? Great because this library doe
 In your `Gemfile` add
 
 ```ruby
-gem 'get_process_mem'
+gem 'get_process_mem-1-8-7'
 ```
 
 then run `$ bundle install`

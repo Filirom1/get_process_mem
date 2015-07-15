@@ -1,3 +1,7 @@
+## 0.3.1
+
+Add Ruby 1.8.7 Support (needed for CentOS6)
+
 ## 0.2.1
 
 - Reverting back to RSS for linux until (#7) is resolved

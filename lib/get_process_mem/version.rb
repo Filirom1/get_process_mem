@@ -1,3 +1,3 @@
 class GetProcessMem
-  VERSION = "0.1.1"
+  VERSION = "0.3.1"
 end
